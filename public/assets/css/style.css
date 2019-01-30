@@ -121,12 +121,15 @@ button {
   font-family: 'Luckiest Guy', cursive;
   padding: 10px 5px 0px;
 }
+*/
 
-span.iggy, p {
+
+/*
+span.tom, p {
   float: left;
   margin: 0px 15px 0px;
   text-align: center;
-  color: #27c48f;
+  color: #FF00FF;
   font: 30px "Fira Sans", serif;
-  font-family: 'Luckiest Guy', cursive;
+  font-family: 'courier', cursive;
 }
